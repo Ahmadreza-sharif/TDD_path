@@ -1,2 +1,20 @@
 # TDD_path
-Currently i'm learning TDD with php so i try to collect best resource and put them here mabye somebody gonna use it as path for learning.
+Currently, I'm learning TDD with PHP and trying to collect the best resources and put them here Maybe somebody will use it as a path for learning.
+resources are free at this time
+<br>
+
+# Context
+<br>
+
+# Videos
+<a href="https://laracasts.com/series/pest-from-scratch">Pest From Scratch by Luke Downing in Laracast</a>
+<br>
+
+# Articles
+<br>
+
+# Books
+<br>
+
+# Code Examples
+<br>
