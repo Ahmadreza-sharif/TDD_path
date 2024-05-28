@@ -7,7 +7,7 @@ resources are free at this time
 <br>
 
 # Videos
-<a href="https://laracasts.com/series/pest-from-scratch">Pest From Scratch by Luke Downing in Laracast</a>
+- <a href="https://laracasts.com/series/pest-from-scratch">Pest From Scratch by Luke Downing in Laracast</a>
 <br>
 
 # Articles
